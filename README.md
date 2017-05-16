@@ -1,5 +1,5 @@
 # Leap Year
-####_A website to tell you if an entered year is a leap year, 01.18.17_
+_A website to tell you if an entered year is a leap year, 01.18.17_
 #### By Tammy Dang and Katy Daviscourt
 ## Description
 Enter whatever year you're curious about and the form will let you know whether or not it's a leap year.
